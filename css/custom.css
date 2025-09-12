@@ -87,7 +87,8 @@ ul.bull li:before{
   font-weight: normal;
 }
 
-.bg-dark {
+.bg-dark,
+.about-static-bg {
   background: url(../images/bgoverlay-1.jpg) bottom center no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -207,4 +208,59 @@ ul.bull li:before{
 .widget .info-text{
     font-family: 'Anek Latin Expanded';
     font-weight: normal;
+}
+
+.btn-secondary-alt.btn-primary {
+    background: linear-gradient(90deg, #FA1260, #FD581C);
+}
+
+.section.vision .row {
+    display: flex;
+    justify-content: center;
+}
+
+.why h3,
+.vision .title{
+  color: #021f61;
+  font-family: 'MicroSquare Pro Ex';
+  font-weight: 600;
+}
+
+.why p,
+.vision .text{
+  font-family: 'Anek Latin Expanded';
+  font-weight: normal;
+}
+.service-section .box-icon-5:hover .icon {
+    color: #fd571d;
+}
+
+.service-section .box-icon-5 .title:after {
+    background: #fd571d;
+}
+
+.service-section .title {
+    font-family: 'Anek Latin Expanded';
+}
+
+.feature-box-7 .title {
+    font-family: 'MicroSquare Pro Ex';
+    font-weight: 600;
+}
+
+.feature-box-7 p {
+    font-family: 'Anek Latin Expanded';
+    font-weight: normal;
+}
+
+.feature-box-7 .title:after {
+    background: #fd571d;
+}
+
+.feature-box-7 .body .info-box .title:after{
+  background:#fd571d;
+}
+
+.portfolio_filter li a.active, .portfolio_filter li a:hover{
+  color: #fd571d;
 }

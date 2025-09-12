@@ -1,0 +1,210 @@
+
+/****************Custom CSS*******************/
+.company-logo,
+.logo-stiky{
+  max-width: 200px;
+}
+
+.header-1 .navbar-nav:after,
+.navbar-right {
+  background-color: #fd571d !important;
+}
+
+.dropdown a{
+  color: #fff !important;
+}
+
+.btn-secondary {
+  background: linear-gradient(90deg, #FA1260, #FD581C);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background: linear-gradient(90deg, #FD581C, #FA1260);
+}
+
+
+.slides-navigation a:hover{
+  color: #fd571d;
+  border-color: #fd571d;
+}
+
+.welcome-text{
+  font-family: 'Anek Latin Expanded' !important;
+  font-weight: 500;
+}
+
+.caption-heading{
+  font-family: 'Anek Latin Expanded' !important;
+  font-weight: 600;
+}
+
+.banner-highlight{
+  font-family: 'Anek Latin Expanded' !important;
+  font-weight: normal;
+}
+
+.section-heading{
+  color: #021f61;
+  font-family: 'MicroSquare Pro Ex';
+}
+
+.section-heading:after{
+  background-color: #021f61;
+}
+
+.servicesection .section-heading:after{
+  background-color: #ffff;
+}
+
+ul.bull li{
+  font-family: 'MicroSquare Pro Ex';
+  line-height: 28px;
+  margin-bottom: 24px;
+}
+
+ul.bull li:before{
+  color: #fd571d !important;
+}
+
+.bg-dark:before{
+ background-color: #021f61 !important;
+}
+
+.service-title{
+ font-family: 'MicroSquare Pro Ex';
+ font-weight: normal;
+}
+
+.service-desc{
+  font-family: 'Anek Latin Expanded';
+  font-weight: normal;
+}
+
+.bg-dark {
+  background: url(../images/bgoverlay-1.jpg) bottom center no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.media-anim .media, .feature-box-8 .media{
+ background-color: #fd571d;
+}
+
+.btn-secondary-alt,
+.btn-primary.disabled{
+    background: none;
+    background-color: #021f61;
+}
+
+.btn-primary.disabled{
+    color: #fff;
+}
+
+.btn-primary.disabled:hover {
+    background-color: #0b3062;
+    color: #ffffff;
+}
+
+.font-anek{
+    font-family: 'Anek Latin Expanded';
+    font-weight: normal;
+}
+
+#caro-project .owl-controls .owl-nav [class*=owl-], #caro-project-2 .owl-controls .owl-nav [class*=owl-], #owl-testimony .owl-controls .owl-nav [class*=owl-]{
+    color: #fd571d;
+    border-color: #fd571d;
+}
+
+.bgtestimony:before{
+  background: linear-gradient(90deg, #FA1260, #FD581C);
+}
+
+.bgtestimony {
+    background: url(../images/testimonial-bg.jpg) bottom center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.testimony .body,
+.testimonial-3 .company{
+    font-family: 'Anek Latin Expanded';
+    font-weight: normal;
+    color: #fff;
+}
+
+.testimonial-3 .title{
+    color: #fff;
+    font-family: 'MicroSquare Pro Ex';
+    font-weight: normal;
+}
+
+.partner-sec{
+    padding-top: 60px;
+}
+
+.footer{
+  background-color: #021f61;
+}
+
+.section.overlap-bottom > .container{
+    background: linear-gradient(90deg, #FA1260, #FD581C);
+}
+
+.box-icon-4 .body-content .heading{
+    font-family: 'MicroSquare Pro Ex';
+    font-weight: 600;
+}
+
+.info .body-content{
+    color: #fff;
+    font-family: 'Anek Latin Expanded';
+    font-weight: normal;
+}
+
+.cd-top{
+    background: #fd571d url(../images/cd-top-arrow.svg) no-repeat center 50%;
+}
+
+.owl-stage-outer .info-box .title{
+    font-family: 'MicroSquare Pro Ex';
+    font-weight: 600;
+}
+
+.owl-stage-outer .info-box p{
+   font-family: 'Anek Latin Expanded';
+   font-weight: normal;
+}
+
+.banner-page .title-page,
+.section-heading-2,
+.widget-title{
+    font-family: 'MicroSquare Pro Ex';
+    font-weight: 600;
+}
+
+.banner-page {
+    padding: 100px 0;
+    background: url(../images/contact-banner-page.jpg) bottom center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.section-heading-2{
+    margin-top: 0;
+}
+
+.widget-title:after{
+    background-color: #021f61;
+}
+
+.widget .info-text{
+    font-family: 'Anek Latin Expanded';
+    font-weight: normal;
+}

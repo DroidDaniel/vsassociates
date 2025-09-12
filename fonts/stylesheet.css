@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Anek Latin';
+    src: url('AnekLatin-SemiBold.woff2') format('woff2'),
+        url('AnekLatin-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin Expanded';
+    src: url('AnekLatinExpanded-SemiBold.woff2') format('woff2'),
+        url('AnekLatinExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin Expanded';
+    src: url('AnekLatinExpanded-Regular.woff2') format('woff2'),
+        url('AnekLatinExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin Expanded';
+    src: url('AnekLatinExpanded-Bold.woff2') format('woff2'),
+        url('AnekLatinExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin';
+    src: url('AnekLatin-Bold.woff2') format('woff2'),
+        url('AnekLatin-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anek Latin Expanded';
+    src: url('AnekLatinExpanded-Medium.woff2') format('woff2'),
+        url('AnekLatinExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fair Prosper';
+    src: url('FairProsper.woff2') format('woff2'),
+        url('FairProsper.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MicroSquare Pro Ex';
+    src: url('MicroSquareProEx.woff2') format('woff2'),
+        url('MicroSquareProEx.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gathenia';
+    src: url('Gathenia.woff2') format('woff2'),
+        url('Gathenia.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MicroSquare Pro Ex';
+    src: url('MicroSquareProEx-Black.woff2') format('woff2'),
+        url('MicroSquareProEx-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Italic.woff2') format('woff2'),
+        url('Roboto-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Light.woff2') format('woff2'),
+        url('Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Minion Pro';
+    src: url('MinionPro-Regular.woff2') format('woff2'),
+        url('MinionPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium.woff2') format('woff2'),
+        url('Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

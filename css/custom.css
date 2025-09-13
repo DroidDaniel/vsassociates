@@ -264,3 +264,15 @@ ul.bull li:before{
 .portfolio_filter li a.active, .portfolio_filter li a:hover{
   color: #fd571d;
 }
+
+@media (max-width: 1024px) {
+    .slides-navigation a.next {
+        right: 0;
+    }
+}
+
+@media (max-width: 1024px) {
+    .slides-navigation a.prev {
+        left: 0;
+    }
+}
